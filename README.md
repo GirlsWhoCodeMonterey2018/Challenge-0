@@ -1,1 +1,4 @@
-# Challenge-0
+# Challenge 0: Example
+
+- Image
+- Background

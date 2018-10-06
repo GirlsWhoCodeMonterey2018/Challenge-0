@@ -3,7 +3,7 @@
 body {
   font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
   margin: 2em;
-  background-color: #8bccc5;
+  background-color: 	#8bb3cc;
 }
 
 h1 {
@@ -12,21 +12,5 @@ h1 {
 }
 
 p {
-  color: lightblue;
-}
-
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
-
-td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-}
-
-tr:nth-child(even) {
-    background-color: #dddddd;
+  color: 	#f3f9f9;
 }
